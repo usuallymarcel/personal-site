@@ -17,7 +17,7 @@ function Projects() {
           <div className="p-6 bg-white rounded shadow flex flex-col justify-between h-full hover:shadow-lg transform hover:scale-105 transition-transform duration-300 cursor-pointer" onClick={() => {window.open(PersonalWebpageGit)}}>
             <h3 className="text-xl font-semibold mb-2">Personal Webpage</h3>
             <p className="text-gray-700">Personal webpage to show my lackluster projects</p>
-            <p className="mt-4 text-gray-900">React, Javascript, AWS EC2, Nginx</p>
+            <p className="mt-4 text-gray-900">React, Javascript, Tailwindcss, AWS EC2, Nginx</p>
           </div>
           <div className="p-6 bg-white rounded shadow flex flex-col justify-between h-full hover:shadow-lg transform hover:scale-105 transition-transform duration-300 cursor-pointer" onClick={() => {window.open(InstaBotGit)}}>
             <h3 className="text-xl font-semibold mb-2">Instagram Bot</h3>
